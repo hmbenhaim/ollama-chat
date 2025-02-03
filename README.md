@@ -2,7 +2,7 @@
 
 A modern, responsive chat interface for Ollama AI models, built with Next.js.
 
-![Chat Interface Screenshot](chat_ui.png)
+![Chat Interface Screenshot](./images/chat_ui.png)
 
 ## Features
 
@@ -40,7 +40,7 @@ npm run dev
 
 ## Demo 
 
-![Chat Interface Vid](chat_ui.gif)
+![Chat Interface Vid](./images/chat_ui.gif)
 
 ## Configuration
 
